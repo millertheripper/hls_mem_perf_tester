@@ -1,1 +1,5 @@
 hls_mem_perf_tester/
+*.jou
+*.log
+*.str
+.Xil/

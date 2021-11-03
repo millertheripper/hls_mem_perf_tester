@@ -1,4 +1,4 @@
-VERSION := 2020.1
+VERSION := 2020.2
 SHELL := /bin/bash
 VIVADO := source /opt/Xilinx/Vivado/$(VERSION)/settings64.sh
 VITIS := vitis_hls
